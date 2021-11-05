@@ -1,5 +1,7 @@
 <h1>Categorize Numbers Application</h1>
 
+<p>This project implements a basic business logic related to the validation of international telephone numbers.</p>
+
 <h3>Technologies Used</h3>
 
 <ul>
