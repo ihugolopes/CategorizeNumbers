@@ -4,8 +4,10 @@
 
 <ul>
   <li>Springboot 4.0.0 for Back-End</li>
-  <li>Thymeleaf and Datatables for Front-End</li>
-  <li>SQL Lite for Database</li>
+  <li>Lombok</li>
+  <li>Thymeleaf, Bootstrap and Datatables for Front-End</li>
+  <li>SQL Lite and JPA for Database</li>
+  <li>JUnit and MockMvc for Tests</li>
   <li>Docker for Containerization</li>
  </ul>
 
