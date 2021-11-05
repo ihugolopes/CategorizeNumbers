@@ -1,4 +1,4 @@
-#Categorize Numbers Application
+<h1>Categorize Numbers Application</h1>
 
 ##To run this application, follow the steps below:
 
